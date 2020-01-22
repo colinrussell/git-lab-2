@@ -1,5 +1,4 @@
 /*
- *
  *      File: git-lab-program.cc
  *      Author: Colin Russell
  *      Date: Tuesday, January 21,2020
